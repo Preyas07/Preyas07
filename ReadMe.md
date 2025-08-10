@@ -1,6 +1,11 @@
-# 💫 About Me:
-I’m an AWS & DevOps Engineer and a passionate AI/ML enthusiast, working where cloud automation meets intelligent systems. My days flow between optimizing Linux environments, writing shell scripts, and architecting robust cloud infrastructure — to experimenting with AI models that solve real-world problems. I thrive on building scalable, automated, and intelligent solutions, whether it’s deploying multi-region architectures on AWS, orchestrating containers with Kubernetes, or weaving AI into DevOps workflows for smarter automation.<br><br>Lately, I’ve been diving deep into the fascinating world of Generative AI, blending creativity with code and exploring how “vibe coding” can shape problem-solving in innovative ways. For me, technology is not just about tools — it’s about crafting systems that adapt, evolve, and make an impact.
+# 💫 Hi there, I’m Preyas Shinde 👋 — 
+I'm an AWS and DevOps engineer with a deep passion for cloud automation and intelligent systems. My work thrives at the intersection of scalable cloud infrastructure and innovative AI solutions.
 
+On any given day, you’ll find me designing and deploying AWS architectures, automating workflows, and fine-tuning Linux environments — all while exploring how AI can supercharge DevOps practices. From orchestrating containers with Kubernetes to optimizing CI/CD pipelines, I aim to make systems smarter, faster, and more resilient.
+
+I’m also passionate about learning and experimenting with AI — from exploring new tools and crafting prompts, to building solutions that bring AI into real-world workflows. Recently, I’ve been diving deep into Generative AI, blending creativity with code and experimenting with “vibe coding” to turn innovative ideas into reality.
+
+✨ Always curious, always building — and always pushing the limits of what cloud and AI can achieve together. 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/preyas_07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/preyas-shinde-5a647921a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PreyasShinde) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shindepreyas07@gmail.com) 
