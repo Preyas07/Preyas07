@@ -1,4 +1,4 @@
-# 💫 Hi there, I’m Preyas Shinde <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" alt="Waving Hand" width="30"/>
+# 💫 Hi there, I’m Preyas Shinde <img src="assets/wave.svg" alt="Waving Hand" width="30"/>
 
 I'm an AWS and DevOps engineer with a deep passion for cloud automation and intelligent systems. My work thrives at the intersection of scalable cloud infrastructure and innovative AI solutions.
 
