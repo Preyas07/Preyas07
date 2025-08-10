@@ -1,4 +1,5 @@
-# 💫 Hi there, I’m Preyas Shinde 👋 — 
+# 💫 Hi there, I’m Preyas Shinde <img src="assets/wave.gif" alt="Waving Hand" width="30"/>
+
 I'm an AWS and DevOps engineer with a deep passion for cloud automation and intelligent systems. My work thrives at the intersection of scalable cloud infrastructure and innovative AI solutions.
 
 On any given day, you’ll find me designing and deploying AWS architectures, automating workflows, and fine-tuning Linux environments — all while exploring how AI can supercharge DevOps practices. From orchestrating containers with Kubernetes to optimizing CI/CD pipelines, I aim to make systems smarter, faster, and more resilient.
