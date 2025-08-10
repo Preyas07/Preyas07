@@ -1,4 +1,5 @@
-# 💫 About Me:
+# 💫 Hi there, I’m Preyas Shinde <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 I'm an AWS and DevOps engineer with a deep passion for cloud automation and intelligent systems. My work thrives at the intersection of scalable cloud infrastructure and innovative AI solutions.<br><br>On any given day, you’ll find me designing and deploying AWS architectures, automating workflows, and fine-tuning Linux environments — all while exploring how AI can supercharge DevOps practices. From orchestrating containers with Kubernetes to optimizing CI/CD pipelines, I aim to make systems smarter, faster, and more resilient.<br><br>I’m also passionate about learning and experimenting with AI — from exploring new tools and crafting prompts, to building solutions that bring AI into real-world workflows. Recently, I’ve been diving deep into Generative AI, blending creativity with code and experimenting with “vibe coding” to turn innovative ideas into reality.<br><br>✨ Always curious, always building — and always pushing the limits of what cloud and AI can achieve together. 
 
 
